@@ -158,8 +158,8 @@ a {
 }
 
 .hero-shape4 {
-    height: 60%;
-    width: 20%;
+    height: 70%;
+    width: 40%;
 }
 
 .hero-shape2 {
@@ -181,4 +181,16 @@ a {
 .header-logo img {
     width: 30%;
     height: 30%;
+}
+
+.footer{
+    padding-top: 20px;
+    height: 100px;
+    background: black;
+}
+
+.footer p{
+    padding-top: 20px;
+    color: white;
+    text-align: center;
 }
